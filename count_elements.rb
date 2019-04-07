@@ -8,6 +8,5 @@ def count_elements(array)
     #binding.pry
   end
    return result
-  binding.pry
 end
  
