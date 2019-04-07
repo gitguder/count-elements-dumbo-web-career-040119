@@ -1,4 +1,4 @@
-def count_elements
+def count_elements(array)
   
 end
  
