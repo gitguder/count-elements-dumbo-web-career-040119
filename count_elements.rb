@@ -7,6 +7,7 @@ def count_elements(array)
     result[word] += 1
     binding.pry
   end
+  
   #binding.pry
 end
  
